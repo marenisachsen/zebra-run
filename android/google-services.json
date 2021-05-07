@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "462087122549",
+    "project_id": "myzebragame",
+    "storage_bucket": "myzebragame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462087122549:android:bf78dc0d3790da5849d23c",
+        "android_client_info": {
+          "package_name": "com.zebra.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462087122549-qmniivkueadgr6o8mfss91arn4mp528n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrpeJ5y6xj5bnn9v8h0gY_MeqZfBtWWkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462087122549-qmniivkueadgr6o8mfss91arn4mp528n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
