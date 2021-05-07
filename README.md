@@ -30,8 +30,8 @@ The game is a multiplayer game, inspired by the well known google chrome game "D
 
  [Promotation video](https://youtu.be/g_0b8GRzMzY)
 
-<img src="zebraPlay.JPG" width=400 height = 300>
-<img src="ZebraSlide.png" width=400 height = 300>
+<img width="941" alt="play (1)" src="https://user-images.githubusercontent.com/49025949/117447255-8c800c80-af3d-11eb-837c-3ab8c2ff048e.png">
+<img width="931" alt="play2" src="https://user-images.githubusercontent.com/49025949/117447471-dc5ed380-af3d-11eb-8021-9c6512a7b096.png">
 
 
 
@@ -70,8 +70,8 @@ The development model uses a variety of supporting branches to aid parallel deve
 Example data fram a test game.
 <br>
 <br>
-<img src = "database1.png">
-<img src = "database2.png">
+<img width="395" alt="db" src="https://user-images.githubusercontent.com/49025949/117447608-03b5a080-af3e-11eb-8087-408b28ef6854.png">
+<img width="432" alt="db2" src="https://user-images.githubusercontent.com/49025949/117447624-07e1be00-af3e-11eb-823e-cb4a64868791.png">
 
 
 ## Installing <a name="Installing"></a>
@@ -91,13 +91,13 @@ __How to install the project__
 
 ## Views <a name="Views"></a>
 ### Logical View <a name="logical"></a>
-<img src = "logical_view.png">
+![logical view](https://user-images.githubusercontent.com/49025949/117447895-5abb7580-af3e-11eb-9e72-3ebc09351210.png)
 
 ### Process View <a name="process"></a>
-<img src = "process_view.png">
+![process view (2)](https://user-images.githubusercontent.com/49025949/117447851-4f684a00-af3e-11eb-9cf7-6ae073a34918.png)
 
 ### Development View <a name="development"></a>
-<img src = "development_view.png">
+![development view (1)](https://user-images.githubusercontent.com/49025949/117448074-935b4f00-af3e-11eb-9bed-0d9a5518eaae.png)
 
 
 
